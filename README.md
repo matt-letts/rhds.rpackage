@@ -2,6 +2,7 @@
 # rhds.rpackage
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/matt-letts/rhds.rpackage/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/matt-letts/rhds.rpackage/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of rhds.rpackage is to ...
